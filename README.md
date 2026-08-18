@@ -1,4 +1,4 @@
-# Screenshot of EV DATA ANALYSIS of Dashboard 
+# EV DATA ANALYSIS of Dashboard 
 
 
 <img width="1321" height="742" alt="image" src="https://github.com/user-attachments/assets/88cfc7f8-3983-4c4c-82e8-80a650b85bbd" />
